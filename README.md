@@ -1,2 +1,9 @@
-# project-saguaro-kit
-UI Kit and workflow documentation for designers. Currently a Sketch project.
+# Saguaro Design Kit
+UI kit and workflow documentation for designers working with [Project Saguaro](https://github.com/ponchofreedo/project-saguaro "Project Saguaro").
+
+## Notes
+There are a few extras that go along with the system. I'm currently in the process of rebuilding the library itself, but use of the color palette is highly recommended instead of just shooting from the hip.
+
+## Dependencies / Recommendations
++ [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
++ [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes)
